@@ -1,2 +1,2 @@
 
-i deleted file img in line public/img , and i'll compress to zip
+Please add the img.zip folder to "public"
